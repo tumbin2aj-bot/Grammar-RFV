@@ -1,0 +1,420 @@
+PARTS OF SPEECH – TABITHA সম্পূর্ণ ভিডিও জেনারেশন স্ক্রিপ্ট ও প্রোডাকশন গাইড
+সময়: আনুমানিক ৪ মিনিট ভিডিও ফরম্যাট: Vertical 9:16 | 1080×1920 | 30 FPS
+ভাষা: বাংলাদেশের প্রমিত বাংলা + English ভয়েস: বন্ধুত্বপূর্ণ, ধীর, স্পষ্ট,
+শিক্ষকসুলভ নারী কণ্ঠ
+
+============================================================ ১.
+CHARACTER LOCK – TABITHA
+============================================================
+
+Use the same recurring 3D animated Bangladeshi schoolgirl character
+named Tabitha in every scene.
+
+Character appearance: - A friendly Bangladeshi schoolgirl, appearing
+around 10–12 years old. - Neat black hair. - Expressive brown eyes. -
+Blue-and-white Bangladeshi school uniform. - Natural childlike
+proportions. - Warm, curious, intelligent and confident expression. -
+Keep exactly the same face, hairstyle, eye color, uniform, body
+proportions and overall character design in every scene. - Do not
+redesign or randomly change Tabitha between scenes.
+
+Animation style: Premium-quality polished 3D educational animation,
+family-friendly, colorful but not visually cluttered, soft natural
+lighting, expressive facial animation and smooth movements.
+
+============================================================ ২. GLOBAL
+VIDEO SETTINGS
+============================================================
+
+-   Aspect ratio: Vertical 9:16.
+-   Resolution: 1080×1920.
+-   Frame rate: 30 FPS.
+-   Total duration: approximately 4 minutes.
+-   Language: Bangla and English mixed naturally.
+-   Voice: Friendly, clear female teacher voice.
+-   Bengali pronunciation: Standard Bangladeshi Bengali pronunciation
+    and vocabulary. Avoid West Bengal/Kolkata pronunciation.
+-   Speaking speed: Medium, slightly slow for definitions and examples.
+-   Pronounce every English grammar term clearly.
+-   Follow all pause instructions in the voiceover.
+-   Background music: Soft, cheerful educational instrumental music,
+    kept low under the voice.
+-   Use familiar Bangladeshi school settings, classroom furniture,
+    blackboard/whiteboard and natural daylight.
+-   Do not add extra dialogue.
+-   Do not omit or paraphrase the supplied voiceover.
+-   Keep screen text short, large, readable and correctly spelled.
+-   Prefer adding final text overlays later in CapCut or Canva to avoid
+    AI-generated spelling errors. Leave clear visual space for text
+    overlays.
+-   Generate separate short clips for each scene, then combine them in a
+    video editor.
+
+============================================================ ৩. সম্পূর্ণ
+দৃশ্যভিত্তিক স্ক্রিপ্ট
+============================================================
+
+SCENE 01 – HOOK সময়: 00:00–00:15
+
+Visual prompt: Tabitha stands in a bright, welcoming Bangladeshi school
+classroom. She looks directly at the camera with a friendly, confident
+smile. Around her, a few English words appear one by one as floating
+animated cards: “Rahim”, “play”, “beautiful”. Tabitha gestures toward
+the words as they appear. Use a medium shot, smooth camera movement and
+a colorful educational atmosphere.
+
+Voiceover: “ইংরেজি বাক্যের প্রতিটি শব্দের একটি নির্দিষ্ট কাজ আছে। [১ সেকেন্ড
+পজ] কোনো শব্দ নাম বোঝায়, [০.৫ সেকেন্ড পজ] কোনোটি কাজ বোঝায়, [০.৫ সেকেন্ড
+পজ] আবার কোনোটি বর্ণনা করে। [১ সেকেন্ড পজ] শব্দের এই কাজ অনুযায়ী শ্রেণিকে বলা
+হয়—Parts of Speech। [১ সেকেন্ড পজ] আর ইংরেজিতে এই Parts of Speech মূলত
+৮টি। [১ সেকেন্ড পজ] আজ আমরা খুব সহজভাবে শিখব— [০.৫ সেকেন্ড পজ] কোন শব্দ কী
+কাজ করে। [১ সেকেন্ড পজ]”
+
+Voice direction: - “নির্দিষ্ট কাজ” কথাটিতে জোর দিন। - “Parts of Speech”
+ধীরে ও স্পষ্টভাবে উচ্চারণ করুন। - “৮টি” কথাটি উৎসাহের সঙ্গে বলুন। - শেষ লাইনটি
+হাসিমুখে বলুন।
+
+Screen text: PARTS OF SPEECH 8 TYPES কোন শব্দ কী কাজ করে?
+
+------------------------------------------------------------------------
+
+SCENE 02 – EASY EXAMPLE সময়: 00:15–00:30
+
+Visual prompt: Show a simple animated example in the classroom. First,
+show a Bangladeshi schoolboy named Rahim. Then show Rahim reading a
+book. Finally, zoom in on the book. Use three clear visual beats to
+represent a person/name, an action and a thing. Tabitha points toward
+each visual.
+
+Voiceover: “ধরুন আমরা বললাম— [০.৫ সেকেন্ড পজ] Rahim reads a book। [১
+সেকেন্ড পজ] এখানে Rahim একজন মানুষের নাম, [০.৫ সেকেন্ড পজ] reads একটি কাজ,
+[০.৫ সেকেন্ড পজ] আর book একটি জিনিস। [১ সেকেন্ড পজ] অর্থাৎ একটি ছোট বাক্যেই
+আমরা ভিন্ন ভিন্ন কাজের শব্দ দেখতে পাচ্ছি। [১ সেকেন্ড পজ]”
+
+Voice direction: - “Rahim reads a book” বাক্যের প্রতিটি শব্দ আলাদা ও
+স্পষ্টভাবে বলুন। - Rahim, reads এবং book শব্দে জোর দিন। - শেষ লাইনটি একটু
+ধীরে বলুন।
+
+Screen text: Rahim = Name reads = Action book = Thing
+
+------------------------------------------------------------------------
+
+SCENE 03 – NOUN সময়: 00:30–00:50
+
+Visual prompt: Tabitha introduces the first grammar category. Show four
+or five clean visual cards: a person named Rahim, a view of Dhaka city,
+a book, an animal such as a cat, and a heart symbol representing love.
+Each image appears as Tabitha mentions it. Use simple classroom-style
+educational graphics.
+
+Voiceover: “প্রথমটি Noun। [০.৫ সেকেন্ড পজ] Noun হলো ব্যক্তি, স্থান, জিনিস,
+প্রাণী বা ভাবের নাম। [১ সেকেন্ড পজ] যেমন— [০.৫ সেকেন্ড পজ] Rahim একজন
+ব্যক্তি, [০.৫ সেকেন্ড পজ] Dhaka একটি স্থান, [০.৫ সেকেন্ড পজ] book একটি জিনিস,
+[০.৫ সেকেন্ড পজ] আর love একটি ভাব। [১ সেকেন্ড পজ]”
+
+Voice direction: - Noun শব্দটি স্পষ্টভাবে ও জোর দিয়ে বলুন। - Rahim, Dhaka,
+book এবং love উদাহরণগুলো পরিষ্কারভাবে উচ্চারণ করুন। - প্রতিটি উদাহরণের মাঝে
+অল্প বিরতি দিন।
+
+Screen text: NOUN = NAME Person | Place | Thing | Animal | Idea Rahim |
+Dhaka | Book | Love
+
+------------------------------------------------------------------------
+
+SCENE 04 – PRONOUN সময়: 00:50–01:10
+
+Visual prompt: Show Rahim standing in the classroom. A sentence card
+appears: “Rahim is a student.” Then the name Rahim is highlighted and
+replaced by “He”. A second sentence card appears: “He is a student.”
+Tabitha explains with a friendly gesture. Keep the two sentence cards
+large and readable.
+
+Voiceover: “দ্বিতীয়টি Pronoun। [০.৫ সেকেন্ড পজ] Pronoun হলো Noun-এর
+পরিবর্তে ব্যবহৃত শব্দ। [১ সেকেন্ড পজ] বারবার Rahim বলার বদলে আমরা বলতে পারি—
+he। [১ সেকেন্ড পজ] যেমন: Rahim is a student. [০.৫ সেকেন্ড পজ] He is a
+student. [১ সেকেন্ড পজ] এখানে he হলো Pronoun। [১ সেকেন্ড পজ]”
+
+Voice direction: - Pronoun শব্দটি স্পষ্টভাবে বলুন। - “he” শব্দে জোর দিন। -
+দুটি ইংরেজি বাক্য আলাদা ও পরিষ্কারভাবে উচ্চারণ করুন।
+
+Screen text: PRONOUN = REPLACES A NOUN Rahim is a student. He is a
+student.
+
+------------------------------------------------------------------------
+
+SCENE 05 – VERB সময়: 01:10–01:30
+
+Visual prompt: Create a lively montage of schoolchildren running,
+eating, reading and playing. Then show the words IS, AM and ARE on clean
+animated cards. Tabitha points to the action scenes and then to the
+words on the board.
+
+Voiceover: “তৃতীয়টি Verb। [০.৫ সেকেন্ড পজ] Verb হলো কাজ বা অবস্থা বোঝায়। [১
+সেকেন্ড পজ] যেমন— run, eat, read, play, is, am, are। [১ সেকেন্ড পজ] একটি
+বাক্যে সাধারণত Verb থাকা জরুরি, [০.৫ সেকেন্ড পজ] কারণ Verb বলে দেয় কী ঘটছে।
+[১ সেকেন্ড পজ]”
+
+Voice direction: - Verb শব্দে জোর দিন। - run, eat, read, play আলাদা আলাদা
+করে বলুন। - is, am, are ধীরে ও স্পষ্টভাবে উচ্চারণ করুন। - “জরুরি” শব্দে জোর
+দিন।
+
+Screen text: VERB = ACTION OR STATE RUN | EAT | READ | PLAY IS | AM |
+ARE
+
+------------------------------------------------------------------------
+
+SCENE 06 – ADJECTIVE সময়: 01:30–01:50
+
+Visual prompt: Show a big book beside a small book, a beautiful flower,
+a red ball and an intelligent student solving a puzzle. Then show the
+sentence “He reads a big book.” Highlight the word “big” and visually
+connect it to the book. Tabitha points to the highlighted word.
+
+Voiceover: “চতুর্থটি Adjective। [০.৫ সেকেন্ড পজ] Adjective হলো বিশেষণ; [০.৫
+সেকেন্ড পজ] এটি Noun বা Pronoun-কে বর্ণনা করে। [১ সেকেন্ড পজ] যেমন— big,
+small, beautiful, red, intelligent। [১ সেকেন্ড পজ] যেমন: He reads a big
+book. [১ সেকেন্ড পজ] এখানে big শব্দটি book-কে বর্ণনা করছে। [১ সেকেন্ড পজ]”
+
+Voice direction: - Adjective শব্দটি পরিষ্কারভাবে উচ্চারণ করুন। - big, small,
+beautiful শব্দগুলোতে জোর দিন। - বাক্যে big শব্দটি বিশেষভাবে জোর দিয়ে বলুন।
+
+Screen text: ADJECTIVE = DESCRIBES BIG | SMALL | BEAUTIFUL | RED A BIG
+BOOK
+
+------------------------------------------------------------------------
+
+SCENE 07 – ADVERB সময়: 01:50–02:10
+
+Visual prompt: Show a child running quickly, another child walking
+slowly, a calendar or clock representing yesterday, and a child pointing
+to a place to represent here. Use clear visual transitions. Tabitha
+explains with expressive gestures.
+
+Voiceover: “পঞ্চমটি Adverb। [০.৫ সেকেন্ড পজ] Adverb বলে দেয়— [০.৫ সেকেন্ড
+পজ] কাজটি কীভাবে, কখন বা কোথায় হচ্ছে। [১ সেকেন্ড পজ] যেমন— quickly,
+slowly, yesterday, here। [১ সেকেন্ড পজ] যেমন: He runs quickly। [১ সেকেন্ড
+পজ] এখানে quickly বলছে, সে কীভাবে দৌড়াচ্ছে। [১ সেকেন্ড পজ]”
+
+Voice direction: - কীভাবে, কখন বা কোথায়—এই তিনটি বিষয় আলাদা করে স্পষ্ট
+করুন। - quickly শব্দটি একটু দ্রুত বলুন। - slowly শব্দটি ধীরে বলুন।
+
+Screen text: ADVERB HOW? | WHEN? | WHERE? QUICKLY | SLOWLY | YESTERDAY |
+HERE
+
+------------------------------------------------------------------------
+
+SCENE 08 – PREPOSITION সময়: 02:10–02:30
+
+Visual prompt: Show a book on a table, a book under a table and a book
+inside a box. Use clear camera angles to demonstrate the position of the
+book. Tabitha points to each position, then the sentence “The book is on
+the table.” appears.
+
+Voiceover: “ষষ্ঠটি Preposition। [০.৫ সেকেন্ড পজ] Preposition দেখায়— [০.৫
+সেকেন্ড পজ] একটি Noun বা Pronoun অন্য শব্দের সাথে কী সম্পর্কে আছে; [০.৫
+সেকেন্ড পজ] বিশেষ করে অবস্থান বা সময় বোঝায়। [১ সেকেন্ড পজ] যেমন— in, on,
+under, to, at। [১ সেকেন্ড পজ] যেমন: The book is on the table. [১ সেকেন্ড
+পজ] এখানে on বই ও টেবিলের সম্পর্ক বোঝাচ্ছে। [১ সেকেন্ড পজ]”
+
+Voice direction: - Preposition শব্দটি স্পষ্টভাবে উচ্চারণ করুন। - in, on,
+under, to, at প্রতিটি আলাদা করে বলুন। - on শব্দে জোর দিন।
+
+Screen text: PREPOSITION = RELATION IN | ON | UNDER | TO | AT THE BOOK
+IS ON THE TABLE.
+
+------------------------------------------------------------------------
+
+SCENE 09 – CONJUNCTION সময়: 02:30–02:50
+
+Visual prompt: Show Rahim reading a book, then writing in a notebook.
+Two action cards appear side by side. A glowing animated word “AND”
+connects the two actions. Tabitha gestures to show that conjunction
+joins words or ideas.
+
+Voiceover: “সপ্তমটি Conjunction। [০.৫ সেকেন্ড পজ] Conjunction দুটি শব্দ, দুটি
+বাক্যাংশ বা দুটি বাক্যকে যুক্ত করে। [১ সেকেন্ড পজ] যেমন— and, but, or,
+because। [১ সেকেন্ড পজ] যেমন: Rahim reads and writes. [১ সেকেন্ড পজ] এখানে
+and দুটি কাজকে যুক্ত করেছে। [১ সেকেন্ড পজ]”
+
+Voice direction: - Conjunction শব্দটি স্পষ্টভাবে বলুন। - “যুক্ত করে” কথাটিতে
+জোর দিন। - and শব্দটি পরিষ্কারভাবে উচ্চারণ করুন।
+
+Screen text: CONJUNCTION = JOINING WORD AND | BUT | OR | BECAUSE Rahim
+reads AND writes.
+
+------------------------------------------------------------------------
+
+SCENE 10 – INTERJECTION সময়: 02:50–03:10
+
+Visual prompt: Show Tabitha expressing four emotions in sequence:
+surprise, realization, sadness and happiness. Add animated word cards
+“WOW!”, “OH!”, “ALAS!” and “HURRAY!” Then show Rahim happily receiving a
+prize while classmates celebrate.
+
+Voiceover: “সর্বশেষ Interjection। [০.৫ সেকেন্ড পজ] Interjection দিয়ে আমরা
+আবেগ, বিস্ময়, আনন্দ বা দুঃখ প্রকাশ করি। [১ সেকেন্ড পজ] যেমন— Wow!, Oh!,
+Alas!, Hurray! [১ সেকেন্ড পজ] এগুলো সাধারণত বিস্ময়বোধক চিহ্ন দিয়ে শেষ হয়।
+[০.৫ সেকেন্ড পজ] যেমন: Wow! Rahim won the prize. [১ সেকেন্ড পজ]”
+
+Voice direction: - Wow! বিস্ময়ের সঙ্গে বলুন। - Oh! বিস্মিত ভঙ্গিতে বলুন। -
+Alas! দুঃখের সুরে বলুন। - Hurray! আনন্দের সঙ্গে বলুন।
+
+Screen text: INTERJECTION = EMOTION WOW! | OH! | ALAS! | HURRAY! Wow!
+Rahim won the prize.
+
+------------------------------------------------------------------------
+
+SCENE 11 – MAGIC SENTENCE সময়: 03:10–03:35
+
+Visual prompt: Tabitha stands beside a large classroom board. Display
+the sentence: “Wow! He and Rahim ran quickly to the big school.”
+Highlight each word one by one with a glowing outline as Tabitha
+identifies its part of speech. Use small magical particles and smooth
+transitions. At the end, show eight colorful category cards together.
+
+Voiceover: “এবার আসল মজার অংশ। [০.৫ সেকেন্ড পজ] আমরা একটি বাক্য দিয়েই ৮টি
+Parts of Speech মনে রাখব। [১ সেকেন্ড পজ] বাক্যটি হলো— [০.৫ সেকেন্ড পজ] Wow!
+He and Rahim ran quickly to the big school. [২ সেকেন্ড পজ] এখানে— [০.৫
+সেকেন্ড পজ] Wow হলো Interjection, [০.৩ সেকেন্ড পজ] He হলো Pronoun, [০.৩
+সেকেন্ড পজ] and হলো Conjunction, [০.৩ সেকেন্ড পজ] Rahim ও school হলো Noun,
+[০.৩ সেকেন্ড পজ] ran হলো Verb, [০.৩ সেকেন্ড পজ] quickly হলো Adverb, [০.৩
+সেকেন্ড পজ] to হলো Preposition, [০.৩ সেকেন্ড পজ] আর big হলো Adjective। [১
+সেকেন্ড পজ]”
+
+Screen text: Wow! He and Rahim ran quickly to the big school.
+
+WOW! = INTERJECTION HE = PRONOUN AND = CONJUNCTION RAHIM / SCHOOL = NOUN
+RAN = VERB QUICKLY = ADVERB TO = PREPOSITION BIG = ADJECTIVE
+
+------------------------------------------------------------------------
+
+SCENE 12 – FINAL RECAP AND ENDING সময়: 03:35–04:00
+
+Visual prompt: Tabitha smiles warmly in the classroom. Eight colorful
+cards appear around her, each showing one Part of Speech. She points to
+the cards one by one, then gives a friendly thumbs-up. Finish with a
+cheerful classroom background and a “See you in the next class!” end
+screen.
+
+Voiceover: “তাহলে আজ আমরা শিখলাম Parts of Speech-এর আটটি প্রকার। Noun,
+Pronoun, Verb, Adjective, Adverb, Preposition, Conjunction এবং
+Interjection। এবার নিজে নিজে একটি বাক্য তৈরি করার চেষ্টা করো। মনে রেখো,
+ইংরেজি শেখার সবচেয়ে ভালো উপায় হলো—বোঝা, অনুশীলন করা এবং নিয়মিত ব্যবহার
+করা। দেখা হবে পরের ক্লাসে। Bye everyone!”
+
+Voice direction: - আটটি নাম পরিষ্কারভাবে এবং সঠিক ক্রমে বলুন। - শেষের
+কথাগুলো উৎসাহব্যঞ্জক ও বন্ধুত্বপূর্ণভাবে বলুন। - “Bye everyone!” হাসিমুখে বলুন।
+
+Screen text: 8 PARTS OF SPEECH LEARN • PRACTICE • IMPROVE SEE YOU IN THE
+NEXT CLASS!
+
+============================================================ ৪. MASTER
+VIDEO GENERATION PROMPT
+============================================================
+
+Create a premium-quality 3D animated educational video for Bangladeshi
+school students, teaching “Parts of Speech – The 8 Types”.
+
+CHARACTER CONSISTENCY: Use the same recurring 3D animated Bangladeshi
+schoolgirl character named Tabitha in every scene. She should appear
+around 10–12 years old, with neat black hair, expressive brown eyes and
+a blue-and-white Bangladeshi school uniform. Keep her face, hairstyle,
+eye color, uniform, body proportions and overall design exactly
+consistent across all clips. Do not redesign the character.
+
+VISUAL STYLE: Premium polished 3D educational animation, friendly and
+colorful classroom atmosphere, natural daylight, smooth camera movement,
+expressive facial animation, clean composition and age-appropriate
+visuals. Use familiar Bangladeshi school environments.
+
+VIDEO FORMAT: Vertical 9:16, 1080×1920 resolution, 30 FPS. Create the
+scenes as separate short clips and combine them into one approximately
+four-minute video.
+
+VOICEOVER: Use a friendly, clear, teacher-like female voice. Speak in
+natural Standard Bangladeshi Bengali with English grammar terms and
+examples pronounced clearly. Use natural Bangla-English code-switching.
+Avoid West Bengal/Kolkata pronunciation. Keep a medium, slightly slow
+pace. Follow all pause instructions exactly.
+
+SCRIPT ACCURACY: Use the supplied voiceover exactly as written. Do not
+omit, shorten, paraphrase or add dialogue. Do not change English
+examples or grammar labels. Do not add unrelated facts.
+
+AUDIO: Use soft, cheerful educational background music at a low volume
+so the voice remains clear. Add subtle sound effects for word highlights
+and transitions only when appropriate.
+
+TEXT: Keep the screen clean and uncluttered. Use large, readable English
+text. Avoid misspellings. If the video generator cannot render text
+accurately, leave empty space and add all final text overlays later in
+CapCut or Canva.
+
+CONTINUITY: Keep Tabitha’s character design, classroom style, lighting
+and animation quality consistent across all scenes. Use smooth
+transitions between clips. Do not introduce a different main character.
+
+FINAL OUTPUT: A polished, engaging, student-friendly educational video
+explaining all eight Parts of Speech, with Tabitha as the recurring
+presenter.
+
+============================================================ ৫. ভিডিও
+তৈরির ব্যবহারিক নির্দেশনা
+============================================================
+
+১. প্রথমে Tabitha-এর একটি reference image তৈরি বা নির্বাচন করুন। প্রতিটি
+scene তৈরির সময় একই reference image ব্যবহার করুন, যদি আপনার video tool
+reference image সমর্থন করে।
+
+২. একবারে পুরো চার মিনিটের ভিডিও তৈরি না করে Scene 01 থেকে Scene 12 পর্যন্ত
+আলাদা আলাদা clip তৈরি করুন। এতে চরিত্র ও দৃশ্য নিয়ন্ত্রণ করা সহজ হবে।
+
+৩. সম্ভব হলে আগে সম্পূর্ণ voiceover তৈরি করুন। তারপর voiceover-এর সময় অনুযায়ী
+প্রতিটি scene-এর visual clip সাজান।
+
+৪. AI video generator-এ বাংলা লেখা তৈরি করালে বানান ভুল হতে পারে। তাই
+screen text CapCut বা Canva-তে পরে যোগ করাই ভালো।
+
+৫. সব clip তৈরি হলে CapCut বা Canva-তে সঠিক ক্রমে সাজান: Scene 01 → Scene
+02 → Scene 03 → Scene 04 → Scene 05 → Scene 06 → Scene 07 → Scene 08 →
+Scene 09 → Scene 10 → Scene 11 → Scene 12।
+
+৬. Voiceover যেন background music-এর চেয়ে স্পষ্ট শোনা যায়, সেটি নিশ্চিত
+করুন।
+
+৭. Export করার আগে পুরো ভিডিও দেখে নিন: - Tabitha-এর চেহারা ও পোশাক সব
+scene-এ একই আছে কি না। - বাংলা উচ্চারণ স্বাভাবিক বাংলাদেশি কি না। -
+English grammar terms সঠিকভাবে বলা হয়েছে কি না। - আটটি Parts of
+Speech-এর নাম ও উদাহরণ ঠিক আছে কি না। - কোনো scene বা voiceover বাদ
+পড়েছে কি না। - ভিডিওর text পড়া যাচ্ছে কি না।
+
+============================================================ ৬. আটটি
+PARTS OF SPEECH – দ্রুত রিভিশন
+============================================================
+
+1.  Noun – ব্যক্তি, স্থান, জিনিস, প্রাণী বা ভাবের নাম। Examples: Rahim,
+    Dhaka, book, cat, love.
+
+2.  Pronoun – Noun-এর পরিবর্তে ব্যবহৃত শব্দ। Examples: he, she, it, they,
+    we.
+
+3.  Verb – কাজ বা অবস্থা বোঝায়। Examples: run, eat, read, play, is, am,
+    are.
+
+4.  Adjective – Noun বা Pronoun-কে বর্ণনা করে। Examples: big, small,
+    beautiful, red, intelligent.
+
+5.  Adverb – কাজটি কীভাবে, কখন বা কোথায় হচ্ছে তা বোঝায়। Examples:
+    quickly, slowly, yesterday, here.
+
+6.  Preposition – Noun বা Pronoun-এর সঙ্গে বাক্যের অন্য শব্দের সম্পর্ক বোঝায়।
+    Examples: in, on, under, to, at.
+
+7.  Conjunction – শব্দ, বাক্যাংশ বা বাক্যকে যুক্ত করে। Examples: and, but,
+    or, because.
+
+8.  Interjection – আবেগ, বিস্ময়, আনন্দ বা দুঃখ প্রকাশ করে। Examples: Wow!,
+    Oh!, Alas!, Hurray!
+
+============================================================ স্ক্রিপ্ট
+সমাপ্ত ============================================================
